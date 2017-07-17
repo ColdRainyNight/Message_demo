@@ -1,4 +1,4 @@
-package bawei.com.message_demo.base;
+package com.message_demo.base;
 
 import android.app.Application;
 import android.support.v7.app.AppCompatDelegate;

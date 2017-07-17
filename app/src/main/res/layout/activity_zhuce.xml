@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="bawei.com.message_demo.ZhuceActivity">
+    tools:context="com.message_demo.ZhuceActivity">
 
 
 

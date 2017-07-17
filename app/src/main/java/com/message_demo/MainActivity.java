@@ -1,4 +1,4 @@
-package bawei.com.message_demo;
+package com.message_demo;
 
 import android.content.Intent;
 import android.os.Bundle;
